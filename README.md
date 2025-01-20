@@ -1,4 +1,3 @@
-LiterAlura: Tu Catálogo de Libros Digitales
 Este proyecto es una API REST desarrollada en Java con Spring Boot que te permite gestionar un catálogo de libros.
 
 Funcionalidades:
